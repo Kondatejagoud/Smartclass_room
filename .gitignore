@@ -1,0 +1,17 @@
+# Environment variables (contains secrets)
+backend/.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Node
+frontend-react/node_modules/
+frontend-react/dist/
+
+# OS
+.DS_Store
+Thumbs.db
