@@ -31,6 +31,22 @@
       "hashed_password": "5c3bdd3fe7992c2a48882fcf78dd84fc65c8467d41411ee58cbd2ac453e45c26",
       "role": "student",
       "created_at": "2026-03-25T09:25:08.798032"
+    },
+    "5": {
+      "id": 5,
+      "username": "ftegg",
+      "email": "cxcxvxcvv@gmaail.com",
+      "hashed_password": "b536698a496328c220626509786810c153048a282cc84b624e81faab9a16a5cb",
+      "role": "teacher",
+      "created_at": "2026-09-20T17:33:40.519072"
+    },
+    "6": {
+      "id": 6,
+      "username": "assaaa",
+      "email": "sdfssdsad@gmail.com",
+      "hashed_password": "9acef08b878e81a412769475b3646352c56bb68ae8462f6e8e7875a69974e67d",
+      "role": "student",
+      "created_at": "2026-09-20T17:34:55.272760"
     }
   },
   "classrooms": {
@@ -89,7 +105,14 @@
       "name": "maths",
       "created_at": "2026-03-25T09:36:31.873358",
       "is_active": true
+    },
+    "ENVOIQ": {
+      "class_id": "ENVOIQ",
+      "teacher_id": 5,
+      "name": "nffg",
+      "created_at": "2026-09-20T17:33:52.974553",
+      "is_active": true
     }
   },
-  "counter": 5
+  "counter": 7
 }
